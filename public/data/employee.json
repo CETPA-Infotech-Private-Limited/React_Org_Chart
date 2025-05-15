@@ -1,0 +1,585 @@
+{
+    "statusCode": 200,
+    "message": "Hierarchy retrieved successfully.",
+    "data": {
+        "id": 45,
+        "groupName": "MD",
+        "description": "Managing Director",
+        "isRoleGroup": true,
+        "roleId": 2,
+        "isServiceCategory": false,
+        "unitId": "396",
+        "childGroups": [
+            {
+                "id": 46,
+                "groupName": "Committee",
+                "description": "Committee Group ",
+                "isRoleGroup": true,
+                "roleId": 3,
+                "isServiceCategory": false,
+                "unitId": "396",
+                "childGroups": [
+                    {
+                        "id": 47,
+                        "groupName": "Nodal Officer",
+                        "description": "Nodal Officer for Corporate Office ",
+                        "isRoleGroup": true,
+                        "roleId": 4,
+                        "isServiceCategory": false,
+                        "unitId": "396",
+                        "childGroups": [
+                            {
+                                "id": 48,
+                                "groupName": "IT",
+                                "description": "IT Dept",
+                                "isRoleGroup": false,
+                                "roleId": null,
+                                "isServiceCategory": true,
+                                "unitId": "396",
+                                "childGroups": [
+                                    {
+                                        "id": 52,
+                                        "groupName": "HOD",
+                                        "description": "HOD IT",
+                                        "isRoleGroup": true,
+                                        "roleId": 6,
+                                        "isServiceCategory": false,
+                                        "unitId": "396",
+                                        "childGroups": [
+                                            {
+                                                "id": 100,
+                                                "groupName": "Testing ",
+                                                "description": "",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "102363",
+                                                        "userDetail": "102363- ASHISH SRIVASTAVA ",
+                                                        "departments": [
+                                                            "FINANCE",
+                                                            "ELECTRICAL",
+                                                            "CIVIL",
+                                                            "S&T",
+                                                            "OP & BD",
+                                                            "MECHANICAL",
+                                                            "ENGG.",
+                                                            "HR",
+                                                            "VIGILANCE",
+                                                            "TRAFFIC",
+                                                            "SAFETY",
+                                                            "SECURITY",
+                                                            "IT",
+                                                            "TADK",
+                                                            "CORP CORD",
+                                                            "ADMINISTRATION",
+                                                            "LAND & ACQUISITION",
+                                                            "DESIGN",
+                                                            "OMBUDSMAN",
+                                                            "DFCCIL",
+                                                            "BD",
+                                                            "STORES",
+                                                            "SECRETARIAL",
+                                                            "TFC",
+                                                            "LAW",
+                                                            "NOT DEFINED",
+                                                            "ADMIN",
+                                                            "SEMU",
+                                                            "CC",
+                                                            "RAJBHASHA",
+                                                            "CS",
+                                                            "OP&BD",
+                                                            "PPP",
+                                                            "POWER SUPPLY"
+                                                        ]
+                                                    },
+                                                    {
+                                                        "userCode": "100218",
+                                                        "userDetail": "100218- SANJAY KUMAR SAXENA ",
+                                                        "departments": [
+                                                            "FINANCE",
+                                                            "ELECTRICAL",
+                                                            "CIVIL",
+                                                            "S&T",
+                                                            "ELECTRICAL",
+                                                            "CIVIL",
+                                                            "OP & BD",
+                                                            "MECHANICAL",
+                                                            "ENGG.",
+                                                            "HR",
+                                                            "VIGILANCE",
+                                                            "TRAFFIC",
+                                                            "SAFETY",
+                                                            "SECURITY",
+                                                            "IT",
+                                                            "TADK",
+                                                            "CORP CORD",
+                                                            "ADMINISTRATION",
+                                                            "LAND & ACQUISITION",
+                                                            "DESIGN",
+                                                            "OMBUDSMAN",
+                                                            "DFCCIL",
+                                                            "BD",
+                                                            "STORES",
+                                                            "SECRETARIAL",
+                                                            "MECHANICAL",
+                                                            "TFC",
+                                                            "LAW",
+                                                            "NOT DEFINED",
+                                                            "ADMIN",
+                                                            "SEMU",
+                                                            "CC",
+                                                            "RAJBHASHA",
+                                                            "CS",
+                                                            "TRAFFIC",
+                                                            "OP&BD",
+                                                            "PPP",
+                                                            "SAFETY",
+                                                            "POWER SUPPLY"
+                                                        ]
+                                                    },
+                                                    {
+                                                        "userCode": "101200",
+                                                        "userDetail": "101200- KUMKUM SINHA ",
+                                                        "departments": [
+                                                            "FINANCE",
+                                                            "CIVIL"
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "mappedUser": [
+                                            {
+                                                "userCode": "22",
+                                                "userDetail": "NAVEEN KUMAR",
+                                                "departments": []
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "mappedUser": []
+                            },
+                            {
+                                "id": 49,
+                                "groupName": "HR",
+                                "description": "HR Dept",
+                                "isRoleGroup": false,
+                                "roleId": null,
+                                "isServiceCategory": true,
+                                "unitId": "396",
+                                "childGroups": [
+                                    {
+                                        "id": 53,
+                                        "groupName": "HOD",
+                                        "description": "HOD HR",
+                                        "isRoleGroup": true,
+                                        "roleId": 6,
+                                        "isServiceCategory": false,
+                                        "unitId": "396",
+                                        "childGroups": [
+                                            {
+                                                "id": 88,
+                                                "groupName": "Payment related",
+                                                "description": "",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100864",
+                                                        "userDetail": "100864- GIRISH KUMAR NIM ",
+                                                        "departments": [
+                                                            "CIVIL"
+                                                        ]
+                                                    },
+                                                    {
+                                                        "userCode": "57",
+                                                        "userDetail": "57- AARTI RATHOUR ",
+                                                        "departments": [
+                                                            "IT"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 89,
+                                                "groupName": "Data updation in SAP",
+                                                "description": "Data updation in SAP (Leave,HRA,Lease, Place of posting, entitlements)\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100864",
+                                                        "userDetail": "100864- GIRISH KUMAR NIM ",
+                                                        "departments": [
+                                                            "CIVIL"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 90,
+                                                "groupName": "Seniority /Residency",
+                                                "description": "Seniority /Residency\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100864",
+                                                        "userDetail": "100864- GIRISH KUMAR NIM ",
+                                                        "departments": [
+                                                            "CIVIL"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 91,
+                                                "groupName": "Promotion related ",
+                                                "description": "Promotion related \n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100864",
+                                                        "userDetail": "100864- GIRISH KUMAR NIM ",
+                                                        "departments": [
+                                                            "CIVIL"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 92,
+                                                "groupName": "APAR & KRA",
+                                                "description": "APAR & KRA\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100572",
+                                                        "userDetail": "100572- SHUCHI . ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 93,
+                                                "groupName": "CBT Exam ",
+                                                "description": "CBT Exam \n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100572",
+                                                        "userDetail": "100572- SHUCHI . ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 94,
+                                                "groupName": "Reservation matters",
+                                                "description": "Reservation matters\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100864",
+                                                        "userDetail": "100864- GIRISH KUMAR NIM ",
+                                                        "departments": [
+                                                            "CIVIL"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 95,
+                                                "groupName": "Pay fixation issues",
+                                                "description": "Pay fixation issues\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100572",
+                                                        "userDetail": "100572- SHUCHI . ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 96,
+                                                "groupName": "Policy related",
+                                                "description": "Policy related\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100571",
+                                                        "userDetail": "100571- KAMNA THAKUR ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 97,
+                                                "groupName": " SAP  related issues",
+                                                "description": " SAP  related issues\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "101089",
+                                                        "userDetail": "101089- MAMTA GUSAIN ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 98,
+                                                "groupName": "EPF matters",
+                                                "description": "EPF matters\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "101089",
+                                                        "userDetail": "101089- MAMTA GUSAIN ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 99,
+                                                "groupName": "NPS",
+                                                "description": "NPS\n",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "101089",
+                                                        "userDetail": "101089- MAMTA GUSAIN ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "mappedUser": [
+                                            {
+                                                "userCode": "101002",
+                                                "userDetail": "RAGHUBIR SINGH RAWAT",
+                                                "departments": [
+                                                    "IT"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "mappedUser": []
+                            },
+                            {
+                                "id": 50,
+                                "groupName": "Finance",
+                                "description": "Finance Dept",
+                                "isRoleGroup": false,
+                                "roleId": null,
+                                "isServiceCategory": true,
+                                "unitId": "396",
+                                "childGroups": [
+                                    {
+                                        "id": 54,
+                                        "groupName": "HOD",
+                                        "description": "HOD Finance",
+                                        "isRoleGroup": true,
+                                        "roleId": 6,
+                                        "isServiceCategory": false,
+                                        "unitId": "396",
+                                        "childGroups": [
+                                            {
+                                                "id": 85,
+                                                "groupName": "Payment of salary, perks and allowances",
+                                                "description": "Payment of salary, perks and allowances",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100557",
+                                                        "userDetail": "100557- CHETAN MODI ",
+                                                        "departments": [
+                                                            "FINANCE",
+                                                            "CIVIL",
+                                                            "HR"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 86,
+                                                "groupName": "TDS related",
+                                                "description": "TDS related",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100557",
+                                                        "userDetail": "100557- CHETAN MODI ",
+                                                        "departments": [
+                                                            "FINANCE",
+                                                            "CIVIL",
+                                                            "HR"
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "mappedUser": [
+                                            {
+                                                "userCode": "100557",
+                                                "userDetail": "100557- CHETAN MODI ",
+                                                "departments": [
+                                                    "FINANCE",
+                                                    "CIVIL",
+                                                    "HR"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "mappedUser": []
+                            },
+                            {
+                                "id": 51,
+                                "groupName": "Others",
+                                "description": "Miscellaneous Dept",
+                                "isRoleGroup": false,
+                                "roleId": null,
+                                "isServiceCategory": true,
+                                "unitId": "396",
+                                "childGroups": [
+                                    {
+                                        "id": 55,
+                                        "groupName": "HOD",
+                                        "description": "HOD Others",
+                                        "isRoleGroup": true,
+                                        "roleId": 6,
+                                        "isServiceCategory": false,
+                                        "unitId": "396",
+                                        "childGroups": [
+                                            {
+                                                "id": 87,
+                                                "groupName": "Others",
+                                                "description": "Others",
+                                                "isRoleGroup": true,
+                                                "roleId": 7,
+                                                "isServiceCategory": true,
+                                                "unitId": "396",
+                                                "childGroups": [],
+                                                "mappedUser": [
+                                                    {
+                                                        "userCode": "100571",
+                                                        "userDetail": "100571- KAMNA THAKUR ",
+                                                        "departments": []
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "mappedUser": [
+                                            {
+                                                "userCode": "100571",
+                                                "userDetail": "KAMNA THAKUR",
+                                                "departments": []
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "mappedUser": []
+                            }
+                        ],
+                        "mappedUser": [
+                            {
+                                "userCode": "101002",
+                                "userDetail": "101002- RAGHUBIR SINGH RAWAT ",
+                                "departments": [
+                                    "IT"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "mappedUser": [
+                    {
+                        "userCode": "102199",
+                        "userDetail": "102199- ALOK SHANKAR PANDEY ",
+                        "departments": []
+                    },
+                    {
+                        "userCode": "100120",
+                        "userDetail": "100120- SUNDER SINGH ",
+                        "departments": []
+                    },
+                    {
+                        "userCode": "103205",
+                        "userDetail": "103205- PALLAVI JOSHI ",
+                        "departments": []
+                    }
+                ]
+            }
+        ],
+        "mappedUser": [
+            {
+                "userCode": "103966",
+                "userDetail": "PRAVEEN KUMAR",
+                "departments": []
+            }
+        ]
+    },
+    "dataLength": 1,
+    "totalRecords": 0,
+    "error": false,
+    "errorDetail": null
+}
