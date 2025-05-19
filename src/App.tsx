@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Tree, TreeNode } from './main'; 
-const App = () => {
+const App = () =>   {
   const [data, setData] = useState<any>(null);
   const [expandedNodes, setExpandedNodes] = useState<{ [key: string]: boolean }>({});
 
